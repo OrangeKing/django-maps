@@ -13,7 +13,7 @@ pip install requirements.txt
 
 2. **Clone/fetch project**
 ```shell
-git clone git@gitlab.mobica.com:int_noka/django-maps.git
+git clone https://github.com/OrangeKing/django-maps.git
 ```
 
 3. **Run:**
